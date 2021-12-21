@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Counties_and_Unitary_Authorities_(May_2021)_UK_BUC",
+"name": "London_Counties_and_Unitary_Authorities_(May_2021)_UK_BUC",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 96, "CTYUA21CD": "E09000001", "CTYUA21NM": "City of London", "CTYUA21NMW": " ", "BNG_E": 532382, "BNG_N": 181358, "LONG": -0.09351, "LAT": 51.51564, "Shape__Area": 2677121.5402984601, "Shape__Length": 6902.1644962446499 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.080182948054445, 51.506872265864097 ], [ -0.109174000436823, 51.509874369998002 ], [ -0.111444375072681, 51.509774699574699 ], [ -0.111567824442113, 51.515335030001701 ], [ -0.105290341558648, 51.518554858750797 ], [ -0.085232645096576, 51.520348397184499 ], [ -0.078528821845199, 51.521511881852 ], [ -0.080182948054445, 51.506872265864097 ] ] ] } },
